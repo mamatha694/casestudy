@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D91925D-DDBE-4FAC-A5C7-0DEDA3C14706}"
+	ProjectSection(SolutionItems) = preProject
+		WorkoutDataBase.sql = WorkoutDataBase.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6428C5D5-218F-4AE6-B79B-DF2A7C2053AD}
+	EndGlobalSection
+EndGlobal
